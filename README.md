@@ -1,4 +1,4 @@
-# SudaneseStore 🛒
+# TOKYO Store 🛒
 
 A modern, full-stack e-commerce application built with the **MERN Stack** (MongoDB, Express, React, Node.js) and styled with **Tailwind CSS**.
 
