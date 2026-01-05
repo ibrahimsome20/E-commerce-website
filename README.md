@@ -28,11 +28,12 @@ A modern, full-stack e-commerce application built with the **MERN Stack** (Mongo
 - **JWT** (JSON Web Tokens)
 - **Bcrypt.js** (Password Hashing)
 
-## 📸 Screenshots
+## 📸 video demo 
 
-<!-- Add your screenshots in the 'screenshots' folder and uncomment these lines -->
-<!-- ![Home Page](./screenshots/home.png) -->
-<!-- ![Cart Page](./screenshots/cart.png) -->
+
+https://github.com/user-attachments/assets/b93d5a1e-8fde-4d6c-8a55-5b5dcd41d5ac
+
+ Page](./screenshots/cart.png) -->
 
 ## 🔧 Installation & Setup
 
