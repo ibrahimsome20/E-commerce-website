@@ -1,0 +1,29 @@
+@import "tailwindcss";
+
+@theme {
+  --color-tokyo-bg: #d5d6db;
+  --color-tokyo-fg: #343b58;
+  --color-tokyo-primary: #34548a;
+  --color-tokyo-secondary: #8c4351;
+  --color-tokyo-accent: #965027;
+  --color-tokyo-card: #e1e2e7;
+  --color-tokyo-hover: #c4c5c9;
+}
+
+@layer base {
+  body {
+    background-color: var(--color-tokyo-bg);
+    color: var(--color-tokyo-fg);
+    font-family: 'Inter', sans-serif;
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply px-4 py-2 bg-tokyo-primary text-white rounded-lg hover:bg-tokyo-primary/90 transition-all active:scale-95;
+  }
+
+  .input-field {
+    @apply w-full px-4 py-2 rounded-lg border border-gray-300 focus:outline-none focus:ring-2 focus:ring-tokyo-primary bg-white/50 backdrop-blur-sm;
+  }
+}
