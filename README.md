@@ -1,8 +1,8 @@
-# TOKYO Store 🛒
+# TOKYO Store 
 
 A modern, full-stack e-commerce application built with the **MERN Stack** (MongoDB, Express, React, Node.js) and styled with **Tailwind CSS**.
 
-## 🚀 Features
+##  Features
 
 - **User Authentication**: Secure login and registration using JWT and HTTP-Only cookies.
 - **Product Catalog**: Browse products with advanced UI/UX and animations.
@@ -13,7 +13,7 @@ A modern, full-stack e-commerce application built with the **MERN Stack** (Mongo
 - **Responsive Design**: Fully responsive UI built with Tailwind CSS.
 - **Security**: Implements partial common security practices (Helmet, Rate Limiting, Sanitization).
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 - **React** (Vite)
@@ -28,14 +28,14 @@ A modern, full-stack e-commerce application built with the **MERN Stack** (Mongo
 - **JWT** (JSON Web Tokens)
 - **Bcrypt.js** (Password Hashing)
 
-## 📸 video demo 
+##  video demo 
 
 
 https://github.com/user-attachments/assets/b93d5a1e-8fde-4d6c-8a55-5b5dcd41d5ac
 
  Page](./screenshots/cart.png) -->
 
-## 🔧 Installation & Setup
+##  Installation & Setup
 
 ### 1. Clone the Repository
 ```bash
@@ -83,14 +83,14 @@ npm run dev
 
 The application should now be running at `http://localhost:5181` (or the port shown in your terminal).
 
-## 🔑 Default Credentials
+##  Default Credentials
 
 To test the application, you can use the pre-seeded admin account:
 
 - **Email**: `admin@example.com`
 - **Password**: `password123`
 
-## 🛡️ Security
+##  Security
 This project includes standard security configurations:
 - **Helmet**: Sets various HTTP headers.
 - **Rate Limit**: Limits repeated requests.
@@ -98,5 +98,5 @@ This project includes standard security configurations:
 - **HPP**: Protects against HTTP Parameter Pollution.
 - **Mongo Sanitize**: Prevents NoSQL injection.
 
-## 📄 License
+##  License
 MIT
