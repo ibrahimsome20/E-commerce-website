@@ -39,8 +39,8 @@ https://github.com/user-attachments/assets/b93d5a1e-8fde-4d6c-8a55-5b5dcd41d5ac
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/sudanesestore.git
-cd sudanesestore
+git clone https://github.com/ibrahimsome20/E-commerce-website.git
+cd E-commerce-website
 ```
 
 ### 2. Backend Setup
